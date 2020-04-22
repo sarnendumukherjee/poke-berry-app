@@ -22,6 +22,12 @@ The assignment was Berry-good. ;)
 
 - Sorting is not supported in this specific api for berry collection. Local sorting on only the client side data represents false data to the user.
 
+## Live Demo
+
+**This app is deployed to Heroku. You can view a live demo of the app at below link**
+
+[https://sarnendu-poke-berry-app.herokuapp.com/](https://sarnendu-poke-berry-app.herokuapp.com/)
+
 ## Demo
 
 ![Poke Berry Demo](Demo.gif)
